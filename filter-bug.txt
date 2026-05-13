@@ -1,1 +1,2 @@
 "Fix filter bug 1" 
+"Fix filter bug 2" 
